@@ -1,0 +1,17 @@
+{
+  "package_id": "com.vixen.vxhud",
+  "edition": "202601",
+  "name": "vxHud",
+  "version": "0.14.0",
+  "min_app_version": "2.0.0",
+  "min_sdk_version": "0.0.7",
+  "tagline": "Dictation + live GPS",
+  "description": "Tap the pad to dictate via Deepgram; live GPS polled every 5s from the phone. Both surfaces show the same state.",
+  "author": "Rahul",
+  "entrypoint": "index.html",
+  "permissions": [
+    { "name": "location", "desc": "Show live position on the HUD" },
+    { "name": "g2-microphone", "desc": "Capture glasses mic audio for dictation" }
+  ],
+  "supported_languages": ["en"]
+}

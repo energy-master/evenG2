@@ -1,0 +1,14 @@
+{
+  "package_id": "com.vixen.probe",
+  "edition": "202601",
+  "name": "Probe",
+  "version": "0.1.0",
+  "min_app_version": "2.0.0",
+  "min_sdk_version": "0.0.7",
+  "tagline": "See what the phone bridge exposes",
+  "description": "Diagnostic: calls every read path in @evenrealities/even_hub_sdk and shows what the iPhone actually returns.",
+  "author": "Rahul",
+  "entrypoint": "index.html",
+  "permissions": [],
+  "supported_languages": ["en"]
+}

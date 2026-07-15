@@ -1,0 +1,14 @@
+body { font-family: system-ui, sans-serif; margin: 2rem; max-width: 48rem; }
+h1 { margin-bottom: 0.25rem; }
+.sub { color: #666; margin-top: 0; }
+.section { border: 1px solid #ddd; border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+.section h2 { margin: 0 0 0.5rem; font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.row { display: flex; gap: 0.5rem; align-items: center; margin: 0.5rem 0; flex-wrap: wrap; }
+button { padding: 0.4rem 0.8rem; border-radius: 4px; border: 1px solid #999; background: #f6f6f6; cursor: pointer; }
+button:hover { background: #eee; }
+pre { background: #111; color: #ddd; padding: 0.75rem; border-radius: 4px; overflow-x: auto; font-size: 0.85rem; margin: 0.25rem 0 0; }
+.tag { display: inline-block; padding: 0.1rem 0.5rem; border-radius: 10px; font-size: 0.75rem; }
+.tag.ok { background: #dcfce7; color: #14532d; }
+.tag.err { background: #fee2e2; color: #7f1d1d; }
+.tag.idle { background: #e5e7eb; color: #374151; }
+.log { max-height: 12rem; overflow-y: auto; }

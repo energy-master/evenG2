@@ -3,10 +3,12 @@
   "edition": "202601",
   "name": "Counter",
   "version": "0.1.0",
-  "min_app_version": "0.1.0",
+  "min_app_version": "2.0.0",
+  "min_sdk_version": "0.0.7",
   "tagline": "Tap to count",
   "description": "First evendev app: increments a counter on ring/temple tap.",
   "author": "Rahul",
   "entrypoint": "index.html",
-  "permissions": {}
+  "permissions": [],
+  "supported_languages": ["en"]
 }

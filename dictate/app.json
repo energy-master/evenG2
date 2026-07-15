@@ -1,0 +1,14 @@
+{
+  "package_id": "com.vixen.dictate",
+  "edition": "202601",
+  "name": "Dictate",
+  "version": "0.1.5",
+  "min_app_version": "2.0.0",
+  "min_sdk_version": "0.0.7",
+  "tagline": "Speak — see it on the glasses",
+  "description": "Streams glasses mic audio to Deepgram over WebSocket and renders the live transcript on the G2 canvas.",
+  "author": "Rahul",
+  "entrypoint": "index.html",
+  "permissions": [],
+  "supported_languages": ["en"]
+}
