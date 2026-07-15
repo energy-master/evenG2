@@ -1,0 +1,12 @@
+{
+  "package_id": "com.vixen.counter",
+  "edition": "202601",
+  "name": "Counter",
+  "version": "0.1.0",
+  "min_app_version": "0.1.0",
+  "tagline": "Tap to count",
+  "description": "First evendev app: increments a counter on ring/temple tap.",
+  "author": "Rahul",
+  "entrypoint": "index.html",
+  "permissions": {}
+}
